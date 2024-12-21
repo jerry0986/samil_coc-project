@@ -18,9 +18,9 @@
 | 이름          | 역할           | GitHub Profile                                   |
 |---------------|----------------|-------------------------------------------------|
 | 이연우       | 팀장 / 백엔드  | [@konslee123](https://github.com/konslee123)   |
-| 왕성혁       | 프론트엔드     | [@shshshshshsh04](https://github.com/shshshshshsh04) |
-| 김지환       | 디자이너       | [@godgimch0](https://github.com/godkimch0)     |
-| 이종현       | 데이터 분석가  | [@jerry0986](https://github.com/jerry0986) |
+| 왕성혁       | 부팀장     | [@shshshshshsh04](https://github.com/shshshshshsh04) |
+| 김지환       |   프론트     | [@godgimch0](https://github.com/godkimch0)     |
+| 이종현       | 엔지니어  | [@jerry0986](https://github.com/jerry0986) |
 
 ---
 
