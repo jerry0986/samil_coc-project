@@ -1,2 +1,3 @@
 # samil_coc-project
-![프로젝트 로고]<img src="[c:\Users\508-10\Pictures/Samil_coc-logo]" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+![Alt text](![Samil_coc-logo](https://github.com/user-attachments/assets/3df30de2-c8c8-45dd-923f-3b8580f1b52e)
+)
