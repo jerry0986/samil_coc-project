@@ -60,8 +60,8 @@
 
 
 2. **이미지를 업로드 하는 방법**
-예: "C:\Users\jh102\Desktop\model\images" 
-이미지 파일을 image폴더에 넣고 경로를 복사해 사용
+   - 예: "C:\Users\jh102\Desktop\model\images" 
+   - 이미지 파일을 image폴더에 넣고 경로를 복사해 사용
 ---
 
 # 기대 효과 🌟
