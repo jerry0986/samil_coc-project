@@ -54,11 +54,14 @@
    ```bash
    pip install pandas scikit-learn opencv-python numpy scikit-image matplotlib 
    ```
-예: "C:\Users\jh102\Desktop\model\images"
-이미지 파일을 image폴더에 넣고 경로를 복사해 사용
+
 [![시연 영상](https://img.youtube.com/vi/IWkpHfbPBaY/0.jpg)](https://youtu.be/IWkpHfbPBaY)
 [![영상 2](https://img.youtube.com/vi/2Z7rZ85yn0s/0.jpg)](https://youtu.be/2Z7rZ85yn0s)
 
+
+2. **이미지를 업로드 하는 방법**
+예: "C:\Users\jh102\Desktop\model\images" 
+이미지 파일을 image폴더에 넣고 경로를 복사해 사용
 ---
 
 # 기대 효과 🌟
