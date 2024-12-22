@@ -71,3 +71,6 @@
 3. **국제 협력 증진**: 태풍은 여러 국가에 영향을 미치므로, 이 시스템을 통해 주변 국가들과의 협력을 강화하고, 정보 공유를 통해 피해를 줄일 수 있습니다.
 4. **지속적인 개선**: 프로젝트를 통해 얻은 데이터와 피드백을 바탕으로 예측 모델을 지속적으로 개선하여, 더욱 정교한 예측이 가능해집니다.
 
+- **데이터 출처**: [기상청]([https://aihub.or.kr/aihubdata/data/view.do?currMenu=120&topMenu=100&aihubDataSe=extrldata&dataSetSn=267](https://data.kma.go.kr/cmmn/main.do))
+                    [인용 사이트](https://earth.nullschool.net/ko)
+- **이메일**: bboyeonwoo@gmail.com
