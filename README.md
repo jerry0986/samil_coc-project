@@ -8,7 +8,7 @@
 - [프로젝트 개요](#프로젝트-개요)
 - [실행 방법](#실행-방법)
 - [문의](#문의)
-- [발전 가능성](#발전 가능성)
+- [발전 가능성](#발전-가능성)
 
 ---
 
@@ -40,7 +40,6 @@
 
 ### 프로젝트 이름: **Samil_coc**
 
-
 ### 기술 스택:
 - **프론트엔드**: Python
 - **백엔드**: Python
@@ -51,39 +50,13 @@
 
 ## 실행 방법 🚀
 
+[![시연 영상](https://img.youtube.com/vi/IWkpHfbPBaY/0.jpg)](https://youtu.be/IWkpHfbPBaY)
+[![영상 2](https://img.youtube.com/vi/2Z7rZ85yn0s/0.jpg)](https://youtu.be/2Z7rZ85yn0s)
+
+
 ### 1. 환경 설정
 사용하면 좋은 웹 : (https://earth.nullschool.net/ko)
 
 1. **필요한 패키지 설치**
    ```bash
    pip install pandas scikit-learn opencv-python numpy scikit-image matplotlib 
-   ```
-   
-### 2. 실행
-1. **개발 서버 실행**
-   ```bash
-   npm run dev
-   ```
-
-2. **프로덕션 빌드** (선택 사항)
-   ```bash
-   npm run build
-   npm start
-   ```
-
-### 3. 접속
-   - 로컬에서: `http://localhost:3000`
-   - 배포된 서버: `https://your-deployed-site.com`
-
----
-
-## 문의 📬
-
-프로젝트에 대한 문의 사항은 아래로 연락해주세요:
-
-- **이메일**: wangsh0414@naver.com
-- **GitHub Issues**: [링크](https://github.com/jerry0986/samil_coc-project/issues)
-
----
-
-### 감사합니다! 🙌
