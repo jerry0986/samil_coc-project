@@ -48,15 +48,14 @@
 
 ---
 
+
 ## 실행 방법 🚀
 
-[![시연 영상](https://img.youtube.com/vi/IWkpHfbPBaY/0.jpg)](https://youtu.be/IWkpHfbPBaY)
-[![영상 2](https://img.youtube.com/vi/2Z7rZ85yn0s/0.jpg)](https://youtu.be/2Z7rZ85yn0s)
-
-
 ### 1. 환경 설정
-사용하면 좋은 웹 : (https://earth.nullschool.net/ko)
 
 1. **필요한 패키지 설치**
    ```bash
    pip install pandas scikit-learn opencv-python numpy scikit-image matplotlib 
+
+[![시연 영상](https://img.youtube.com/vi/IWkpHfbPBaY/0.jpg)](https://youtu.be/IWkpHfbPBaY)
+[![영상 2](https://img.youtube.com/vi/2Z7rZ85yn0s/0.jpg)](https://youtu.be/2Z7rZ85yn0s)
