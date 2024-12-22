@@ -1,3 +1,6 @@
+README 파일을 독창적이고 눈에 띄게 만들기 위해서는 시각적 요소와 흥미로운 콘텐츠를 포함하는 것이 중요합니다. 아래는 좀 더 독창적이고 사람들의 이목을 끌 수 있는 README 파일 예시입니다.
+
+```markdown
 # Samil_coc 팀 프로젝트 소개 🌪️
 
 ![Samil_coc-logo](https://github.com/user-attachments/assets/a98cd9af-ee88-4c3a-968a-eb75ba831655)
@@ -26,7 +29,7 @@
 
 ## 프로젝트 개발 이유 🌍
 
-태풍은 바람의 방향, 해수면의 온도 등의 영향을 많이 받습니다. 그것을 종합하여 태풍 발생 조건이 가까워질 때 경고를 보내거나 발생 확률을 계산해 나타내는 것이 목표이고 이를 통해 발생 주변 국가 등이 피해를 막을 수 있도록 하는 것이 핵심 가치입니다.
+태풍은 바람의 방향, 해수면의 온도 등의 영향을 많이 받습니다. 이것을 종합하여 태풍 발생 조건이 가까워질 때 경고를 보내거나 발생 확률을 계산해 나타내는 것이 목표입니다. 이를 통해 발생 주변 국가 등이 피해를 막을 수 있도록 하는 것이 핵심 가치입니다.
 
 ### 주요 동기:
 1. **문제 정의**: 태풍으로 인한 인명 피해와 재산 피해
@@ -58,3 +61,47 @@
    ```bash
    git clone https://github.com/username/project.git
    cd project
+   ```
+
+2. **필요한 패키지 설치**
+   ```bash
+   npm install
+   ```
+
+3. **환경 변수 설정**
+   프로젝트 루트에 `.env` 파일을 생성하고 아래 내용을 추가:
+   ```env
+   DB_URL=your_database_url
+   API_KEY=your_api_key
+   ```
+
+### 2. 실행
+1. **개발 서버 실행**
+   ```bash
+   npm run dev
+   ```
+
+2. **프로덕션 빌드** (선택 사항)
+   ```bash
+   npm run build
+   npm start
+   ```
+
+### 3. 접속
+   - 로컬에서: `http://localhost:3000`
+   - 배포된 서버: `https://your-deployed-site.com`
+
+---
+
+## 문의 📬
+
+프로젝트에 대한 문의 사항은 아래로 연락해주세요:
+
+- **이메일**: wangsh0414@naver.com
+- **GitHub Issues**: [링크](https://github.com/jerry0986/samil_coc-project/issues)
+
+---
+
+감사합니다! 🙌
+
+![Thank you](https://via.placeholder.com/800x400)
