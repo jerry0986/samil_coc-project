@@ -1,6 +1,3 @@
-README 파일을 독창적이고 눈에 띄게 만들기 위해서는 시각적 요소와 흥미로운 콘텐츠를 포함하는 것이 중요합니다. 아래는 좀 더 독창적이고 사람들의 이목을 끌 수 있는 README 파일 예시입니다.
-
-```markdown
 # Samil_coc 팀 프로젝트 소개 🌪️
 
 ![Samil_coc-logo](https://github.com/user-attachments/assets/a98cd9af-ee88-4c3a-968a-eb75ba831655)
