@@ -44,18 +44,28 @@
 - **프론트엔드**: Python
 - **백엔드**: Python
 
-![시스템 구조](https://via.placeholder.com/800x400)
-
----
-
-
 ## 실행 방법 🚀
 
 ### 1. 환경 설정
 
+
+
 1. **필요한 패키지 설치**
    ```bash
    pip install pandas scikit-learn opencv-python numpy scikit-image matplotlib 
-
+   ```
+예: "C:\Users\jh102\Desktop\model\images"
+이미지 파일을 image폴더에 넣고 경로를 복사해 사용
 [![시연 영상](https://img.youtube.com/vi/IWkpHfbPBaY/0.jpg)](https://youtu.be/IWkpHfbPBaY)
 [![영상 2](https://img.youtube.com/vi/2Z7rZ85yn0s/0.jpg)](https://youtu.be/2Z7rZ85yn0s)
+
+---
+# 제목
+
+## 기대 효과 🌟
+
+1. **조기 경고 시스템**: 태풍 발생 가능성을 사전에 예측하여, 관련 기관과 주민들에게 조기 경고를 제공함으로써 인명 피해를 최소화할 수 있습니다.
+2. **데이터 기반 의사결정**: 수집된 데이터를 분석하여 태풍의 발생 패턴을 이해하고, 이를 바탕으로 보다 정확한 예측 모델을 개발할 수 있습니다.
+3. **국제 협력 증진**: 태풍은 여러 국가에 영향을 미치므로, 이 시스템을 통해 주변 국가들과의 협력을 강화하고, 정보 공유를 통해 피해를 줄일 수 있습니다.
+4. **지속적인 개선**: 프로젝트를 통해 얻은 데이터와 피드백을 바탕으로 예측 모델을 지속적으로 개선하여, 더욱 정교한 예측이 가능해집니다.
+
