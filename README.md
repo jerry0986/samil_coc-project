@@ -51,24 +51,13 @@
 ## 실행 방법 🚀
 
 ### 1. 환경 설정
-1. **프로젝트 클론**
+사용하면 좋은 웹 : (https://earth.nullschool.net/ko)
+
+1. **필요한 패키지 설치**
    ```bash
-   git clone https://github.com/username/project.git
-   cd project
+   pip install pandas scikit-learn opencv-python numpy scikit-image matplotlib 
    ```
-
-2. **필요한 패키지 설치**
-   ```bash
-   npm install
-   ```
-
-3. **환경 변수 설정**
-   프로젝트 루트에 `.env` 파일을 생성하고 아래 내용을 추가:
-   ```env
-   DB_URL=your_database_url
-   API_KEY=your_api_key
-   ```
-
+   
 ### 2. 실행
 1. **개발 서버 실행**
    ```bash
