@@ -45,7 +45,7 @@
 - **백엔드**: Python
 
 ## 실행 방법 🚀
-
+사용 하면 좋은 웹: (https://earth.nullschool.net/ko)
 ### 1. 환경 설정
 
 
